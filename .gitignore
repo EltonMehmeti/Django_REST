@@ -1,12 +1,11 @@
-## created by virtualenv automatically
-#*
-## Python
-#__pycache__/
-#*.pyc
-#*.pyo
-#*.pyd
-#
-## Django
-#*.log
-#db.sqlite3
-#.env
+Scripts/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+db.sqlite3
+
+
+.env
