@@ -1,5 +1,5 @@
 Scripts/
-Lib/site-packages/
+Lib/site-packages
 
 __pycache__/
 *.pyc
