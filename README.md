@@ -17,6 +17,7 @@ Cashflow upload:
   key:file,  value:cash_flows.xlsx
 
 if you want to check all the loans:
+one feature to mention is pagination
 http://localhost:8000/investment/loans/
 All cashflows:
 http://localhost:8000/investment/cashflows/
