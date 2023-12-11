@@ -15,7 +15,7 @@ Cashflow upload:
   http://localhost:8000/investment/api/cashflow/upload/
   Body-form-data:
   key:file,  value:cash_flows.xlsx
-
+!Didn't use authentication for the sake of simplicity!
 if you want to check all the loans:
 one feature to mention is pagination
 http://localhost:8000/investment/loans/
